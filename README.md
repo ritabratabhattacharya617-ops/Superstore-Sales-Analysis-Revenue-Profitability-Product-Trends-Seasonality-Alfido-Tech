@@ -1,0 +1,2 @@
+# Superstore-Sales-Analysis-Revenue-Profitability-Product-Trends-Seasonality-Alfido-Tech
+Analyze Superstore sales data with Python, Pandas, NumPy, and Matplotlib to explore revenue, profitability, product performance, regional trends, and seasonality. The project includes data cleaning, KPI calculations, visualizations, and five actionable strategies, with Jupyter Notebook and reports for data-driven decisions at Alfido Tech.
